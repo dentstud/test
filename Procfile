@@ -1,1 +1,1 @@
-web: python simpleTest2.py
+worker: python simpleTest2.py
