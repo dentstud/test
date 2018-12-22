@@ -1,5 +1,3 @@
 pymongo
-django
-gunicorn
-django-heroku
+python
 python-binance==0.7.0
